@@ -7,7 +7,7 @@ power supplies, PS2042-20B & PS2084-10B.
 __author__      = "Ramón López-Erauskin"
 __copyright__   = "Copyright 2017"
 __credits__     = ["Ramón López-Erauskin"]
-__license__     = ""
+__license__     = "GNU General Public License v3.0"
 __version__     = "1.0.0"
 __maintainer__  = "Ramón López-Erauskin"
 __email__       = "r.lopez.erauskin@gmail.com"
