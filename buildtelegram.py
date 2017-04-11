@@ -1,9 +1,4 @@
 # -*-coding:utf8 -*
-# See "Supply_control_code.m" for the details in
-# C:\Users\Administrator\Documents\Premasol\MATLAB & Python\RS485Comm\Premasol\PV emulator\PCserial
-
-# And "ps2000b_programming.pdf" in 
-# C:\Users\Administrator\Desktop\Ramon\EA Small-PV\programming_ps2000b\documentation
 
 """
 Building telegrams depending on the operation to be executed.
@@ -15,7 +10,7 @@ Documentation (Elektro-Automatik):
 __author__      = "Ramón López-Erauskin"
 __copyright__   = "Copyright 2017"
 __credits__     = ["Ramón López-Erauskin"]
-__license__     = ""
+__license__     = "GNU General Public License v3.0"
 __version__     = "1.0.0"
 __maintainer__  = "Ramón López-Erauskin"
 __email__       = "r.lopez.erauskin@gmail.com"
