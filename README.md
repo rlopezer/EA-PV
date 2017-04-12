@@ -13,3 +13,9 @@ Notes:
 
 - By creating new copies of EAloopread.py and changing the comm ports, several sources could be controlled "simultaneously".
 - If running in Windows, drivers are needed. Please, contact Elektro Automatik and have a look in: http://www.elektroautomatik.de/en/ps2000b.html
+
+TO DO:
+
+In lookup.py: improve the reading of the CSV file
+
+In datafunctions.py: merge the different fuctions declared in a single and generic one for all the operations
