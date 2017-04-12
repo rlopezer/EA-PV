@@ -84,7 +84,7 @@ WriteSerialCom(ser, buildtelegram.t_send(SET_VOLT_VAL, Vmax, 0))
 V, I = ReadAnswer (ser, answer, Vmax, Imax)
 # Current:
 answer = []
-WriteSerialCom(ser, buildtelegram.t_send(SET_CURR_VAL, Imax, 0))
+WriteSerialCom(ser, buildtelegram.t_send(SET_CURR_VAL, Imax, Imax))
 V, I = ReadAnswer (ser, answer, Vmax, Imax)
 
 # Output ON
